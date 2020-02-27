@@ -19,12 +19,16 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 .watermelon {
   background-color: #e97065;
 }
+
 .rammetto {
   font-family: "Rammetto One", sans-serif;
-
 }
 
 .starfruit {
@@ -40,5 +44,5 @@ html {
 }
 
 .comfortaa {
-  font-family: "Comfortaa", sans-serif;
+  font-family: Comfortaa, sans-serif;
 }
